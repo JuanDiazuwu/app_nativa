@@ -28,5 +28,5 @@ Java
 
 Android Studio
   
-  
+Extraer el archivo `Weather.zip`, dentro se encuentra el proyecto abrirlo con Android Studio, y se puede emular un dispositivo Android o se puede utlizar un dispositivo Android físico para probarlo.
   
